@@ -8,7 +8,6 @@ This project implements the **Apriori Algorithm** to perform **Market Basket Ana
 
 The dataset used for this project is available on Kaggle and contains transactional data from a grocery store. Each transaction corresponds to a customer's purchase, with the dataset containing 7,501 transactions and 120 unique items. 
 
-- **Dataset Link**: [Market Basket Optimization - Kaggle](https://www.kaggle.com/datasets/ahmedaliomar/market-basket-optimization)
 - **Dataset File**: `Market_Basket_Data.csv`
 
 ### Project Structure
