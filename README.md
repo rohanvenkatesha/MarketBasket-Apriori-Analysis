@@ -76,7 +76,3 @@ The insights gained from the frequent itemsets and association rules can be appl
 - **Product Bundling**: Identifying products that are frequently bought together can help businesses create bundle offers.
 - **Inventory Management**: Understanding the relationships between products can help with stock management and demand forecasting.
 - **Marketing Strategy**: Businesses can use these associations to personalize marketing campaigns and optimize promotions.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
